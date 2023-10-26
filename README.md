@@ -1,8 +1,8 @@
-# Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Шикарные шрифты [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of fonts and typography resources.
+Кураторский список ресурсов по шрифтам и типографике.
 
-## Contents
+## Оглавление
 
 1. [General](#general)
 1. [Free fonts](#free-fonts)
